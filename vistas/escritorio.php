@@ -23,7 +23,7 @@ if ($_SESSION['escritorio']==1)
               <div class="col-md-12">
                   <div class="box">
                     <div class="box-header with-border">
-                          <h1 class="box-title">diseño</h1>                     
+                          <h1 class="box-title">cargo</h1>                     
                     </div>
                     
                     <!-- /.box-header -->
